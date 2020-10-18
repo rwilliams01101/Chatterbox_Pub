@@ -1,0 +1,26 @@
+.navbar {
+  background: rgb(35, 50, 107) !important;
+}
+
+.jumbotron {
+  width: 100%;
+  background-image: url(../images/interior.jpeg);
+  color: white;
+}
+
+.logo {
+  height: 175px;
+  width: 50%;
+  background-image: url(../images/bordered-logo.png);
+  background-repeat: no-repeat;
+  margin-right: 25%;
+  margin-left: 25%;
+}
+
+.jumbotron {
+  text-align: center;
+}
+
+.btn-outline-primary {
+  background: rgba(61, 54, 54, 0.596);
+}
